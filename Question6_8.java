@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Question68 {
+public class Question6_8 {
 
 public static double calculateCharges (double time){
     if (time <= 3)
